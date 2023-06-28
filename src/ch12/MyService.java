@@ -14,6 +14,7 @@ public class MyService extends Thread{
     // 샘플에서는 60회 출력을 하고, 1초(1000ms) 마다 멈춤.
     // 출력 횟수 및 일시정지 시간을 랜덤으로 처리함
     // 주석하나 더
+    // 또하나 추가
     @Override
     public void run() {
         for (int i=1; i <= 60; i++) {               // i<= (int)  (math.random() * 1000); i++) {
