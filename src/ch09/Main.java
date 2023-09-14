@@ -2,7 +2,7 @@ package ch09;
 
 import account.Account;
 import ch06.list.list_Class_pratice.Student;
-import ch07.상속.person.Course.Course;
+import ch07.extend.person.Course.Course;
 
 import java.util.ArrayList;
 import java.util.List;
